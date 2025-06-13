@@ -106022,17 +106022,17 @@ Dont forget to fork 🍴 & star 🌟 repo😇
 <p>You will need a session ID to run the VORTEX-XMD. Click the button below to obtain your session ID. If there is any issue loading the site, try using a VPN:</p>
 
 <p><strong>1️⃣ Pair Code (Session ID)</strong></p>
-<a href='https://vortex-xmd-session-site.onrender.com/' target="_blank">
+<a href='https://hans-tz-pair.onrender.com/' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 
 <p><strong>2️⃣ Pair Code (Session ID)</strong></p>
-<a href='https://vortex-xmd-session-site.onrender.com/' target="_blank">
+<a href='https://hans-tz-pair.onrender.com/' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 
 <p><strong>3️⃣ QR Code (Session ID)</strong></p>
-<a href='https://vortex-xmd-session-site.onrender.com/qr' target="_blank">
+<a href='https://hans-tz-pair.onrender.com/qr' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-cyan?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 
@@ -106101,10 +106101,8 @@ https://youtu.be/5gl0OnZadeA?si=i6kfJOZAvHk9mNlW
 🔹 Bot Repo:
 https://github.com/Mrhanstz/VORTEX-XMD
 
-🔹 VORTEX-XMD Updates Channel:
-https://whatsapp.com/channel/0029Vb4a985InlqSS0l3ro3c
 
-🔹 HANS MD Updates WhatsApp Channel:
+🔹 VORTEX XMD Updates WhatsApp Channel:
 https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31
 
 🔹 GitHub Profile:
@@ -106115,38 +106113,6 @@ Stay updated with the latest features
 </details>
 
 ---
-
----
-
-
-<details>
-  <summary>TAP TO CHEK THE OUR HANS-XMD DEPLOY FREE ON PANNEL 💯</summary>
-  <p>HANS-XMD ON PANNEL DOWNLOAD FILE AND ENJOY 
-  Guys HANS XMD Is ready on Media Fire 🔥.... Download and enjoy....
-
-Download File here on Media Fire
-
-https://www.mediafire.com/file/tkcsc0xu3tk5v5q/ʜᴀɴs-xᴍᴅ_ᴠ2🚀.zip/file
-
-Create account on pannel here 
-
-https://bot-hosting.net/?aff=1308000667230666802
-
-Follow My channel Hire for Updates 
-
-https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31
-
-Video on YouTube How to deploy here
-For free HANS XMD  
-
-https://youtu.be/4DIE4y6ugig?si=Xnyp0aVqQQgiUZo9
-
-</p>
-</details>
-
----
-
-<details>
   <summary>TAP TO VIEW STEPS HOW TO DEPLOY ON TALK DROVE FOR FREE💯</summary>
   <p>
 
